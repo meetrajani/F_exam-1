@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "producetName": "zudo",
+      "ditel": "susza",
+      "Price": "599",
+      "id": 1
+    },
+    {
+      "producetName": "boot",
+      "ditel": "aarpod",
+      "Price": "799",
+      "id": 2
+    },
+    {
+      "producetName": "darimilk",
+      "ditel": "aarpod",
+      "Price": "599",
+      "id": 3
+    },
+    {
+      "producetName": "Laptops",
+      "ditel": "Fits 15",
+      "Price": "10999.95",
+      "id": 4
+    },
+    {
+      "producetName": "oppo",
+      "ditel": "A55",
+      "Price": "11999",
+      "id": 5
+    },
+    {
+      "producetName": "oppo",
+      "ditel": "A53",
+      "Price": "9999",
+      "id": 6
+    },
+    {
+      "producetName": "oppo",
+      "ditel": "A52",
+      "Price": "10999",
+      "id": 7
+    }
+  ]
+}
